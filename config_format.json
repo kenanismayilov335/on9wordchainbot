@@ -1,12 +1,12 @@
 {
-    "TOKEN": "",
-    "ON9BOT_TOKEN": "",
-    "DB_URI": "",
-    "PROVIDER_TOKEN": "",
+    "TOKEN": "1188090440:AAFQzi6yQd9pgnxMXjS89Z9owhzLDREIMgM",
+    "ON9BOT_TOKEN": "1188090440:AAFQzi6yQd9pgnxMXjS89Z9owhzLDREIMgM",
+    "DB_URI": "https://www.postgresql.org/docs/current/libpq-connect.html#LIBPQ-CONNSTRING",
+    "PROVIDER_TOKEN": "1188090440:AAFQzi6yQd9pgnxMXjS89Z9owhzLDREIMgM",
     "OWNER_ID": 69420,
     "ADMIN_GROUP_ID": 69420,
     "OFFICIAL_GROUP_ID": 69420,
     "WORD_ADDITION_CHANNEL_ID": 69420,
-    "VIP": [],
-    "VIP_GROUP": []
+    "VIP": [62627],
+    "VIP_GROUP": [3773]
 }
